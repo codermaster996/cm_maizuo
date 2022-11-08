@@ -1,0 +1,19 @@
+{
+    "banner": [
+      {
+        "id": 1,
+        "imgUrl": "https://static.maizuo.com/v5/upload/f6769fa4a0281ebce5a303817ae8038e.jpg?x-oss-process=image/quality,Q_70",
+        "title": "1"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://static.maizuo.com/v5/upload/4c44c20638572f0ef021497a8f88d99b.jpg?x-oss-process=image/quality,Q_70",
+        "title": "2"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://static.maizuo.com/v5/upload/c02e6526de22512fd8af5257a7c81fb2.jpg?x-oss-process=image/quality,Q_70",
+        "title": "3"
+      }
+    ]
+}
